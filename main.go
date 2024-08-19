@@ -1,8 +1,5 @@
 package main
 
-// mongodb+srv://ayaaakinleye:2701Akin2000@cluster0.opv1wfb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-// main.go
-
 import (
 	"context"
 	"log"
